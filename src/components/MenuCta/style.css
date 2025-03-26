@@ -1,0 +1,82 @@
+.menu-CTA {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  padding: 0px 24px 0px 40px;
+  position: relative;
+}
+
+.menu-CTA .frame {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.menu-CTA .text-wrapper {
+  flex: 1;
+  font-family: "Urbanist", Helvetica;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.menu-CTA .icons-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: #e1ebf2;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 6px;
+  position: relative;
+}
+
+.menu-CTA .icons {
+  height: 14px !important;
+  position: relative !important;
+  width: 14px !important;
+}
+
+.menu-CTA .div {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.menu-CTA .component-1 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.menu-CTA .instance-node {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.menu-CTA .aberto {
+  color: var(--colorgray-900);
+  font-weight: 500;
+}
+
+.menu-CTA .default {
+  color: var(--colorgray-600);
+  font-weight: 400;
+}

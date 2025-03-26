@@ -1,0 +1,57 @@
+.component {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: 226px;
+}
+
+.component .in-cio {
+  flex: 1;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.component .icons-658 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.component.houver {
+  background-color: var(--colorgray-25);
+  padding: 12px 16px;
+}
+
+.component.defalut {
+  padding: 12px 16px;
+}
+
+.component.select {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--colorprimary-300);
+  height: 48px;
+  padding: 14px 16px;
+}
+
+.component.houver .in-cio {
+  color: var(--colorprimary-800);
+  margin-top: -1.00px;
+}
+
+.component.defalut .in-cio {
+  color: var(--colorgray-600);
+  margin-top: -1.00px;
+}
+
+.component.select .in-cio {
+  color: var(--colorprimary-700);
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}

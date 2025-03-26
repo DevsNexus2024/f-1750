@@ -1,0 +1,82 @@
+.property-default-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  padding: 0px 24px 0px 40px;
+  position: relative;
+}
+
+.property-default-wrapper .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.property-default-wrapper .text-wrapper-2 {
+  flex: 1;
+  font-family: "Urbanist", Helvetica;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+}
+
+.property-default-wrapper .buttons-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #e1ebf2;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 6px;
+  position: relative;
+}
+
+.property-default-wrapper .icons-2 {
+  height: 14px !important;
+  position: relative !important;
+  width: 14px !important;
+}
+
+.property-default-wrapper .frame-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.property-default-wrapper .component-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.property-default-wrapper .icon-instance-node {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.property-default-wrapper .property-1-aberto {
+  color: var(--colorgray-900);
+  font-weight: 500;
+}
+
+.property-default-wrapper .property-1-default {
+  color: var(--colorgray-600);
+  font-weight: 400;
+}

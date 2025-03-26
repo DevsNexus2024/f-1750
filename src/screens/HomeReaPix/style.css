@@ -1,0 +1,442 @@
+.home-rea-pix {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-rea-pix .div-2 {
+  background-color: #ffffff;
+  height: 848px;
+  position: relative;
+  width: 1440px;
+}
+
+.home-rea-pix .frame-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 323px;
+  padding: 32px 40px 48px 56px;
+  position: absolute;
+  top: 99px;
+  width: 1117px;
+}
+
+.home-rea-pix .text-wrapper-8 {
+  color: #000000;
+  font-family: "Zona Pro-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 981px;
+}
+
+.home-rea-pix .frame-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--colorgray-200);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 0px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .text-wrapper-9 {
+  align-self: stretch;
+  color: var(--colorgray-900);
+  font-family: "Urbanist", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.home-rea-pix .frame-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .frame-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .frame-22 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #e1ebf2;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+  position: relative;
+  width: 325px;
+}
+
+.home-rea-pix .frame-23 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.home-rea-pix .icons-871-wrapper {
+  align-items: center;
+  background-color: var(--colorgray-25);
+  border: 1px solid;
+  border-color: var(--colorgray-50);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #e863640d;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.home-rea-pix .icon-instance-node-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.home-rea-pix .frame-24 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.home-rea-pix .debitar-saldo-em {
+  color: transparent;
+  font-family: "Urbanist", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-rea-pix .text-wrapper-10 {
+  color: #64737e;
+}
+
+.home-rea-pix .text-wrapper-11 {
+  color: #011219;
+  font-weight: 500;
+}
+
+.home-rea-pix .frame-25 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.home-rea-pix .div-3 {
+  color: var(--colorgray-400);
+  font-family: "Urbanist", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-rea-pix .text-wrapper-12 {
+  color: #7d8c97;
+  font-family: "Urbanist", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home-rea-pix .text-wrapper-13 {
+  font-weight: 500;
+}
+
+.home-rea-pix .ellipse-3 {
+  background-color: var(--colorprimary-800);
+  border-radius: 1px;
+  height: 2px;
+  position: relative;
+  width: 2px;
+}
+
+.home-rea-pix .frame-26 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .text-wrapper-14 {
+  color: var(--colorprimary-700);
+  font-family: "Urbanist", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.home-rea-pix .frame-27 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #e1ebf2;
+  border-radius: 12px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+}
+
+.home-rea-pix .frame-28 {
+  align-items: center;
+  background-color: var(--colorprimary-25);
+  border: 1px solid;
+  border-color: var(--colorgray-50);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #63e89e0d;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.home-rea-pix .frame-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .text-wrapper-15 {
+  align-self: stretch;
+  color: var(--colorgray-900);
+  font-family: "Urbanist", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.home-rea-pix .text-wrapper-16 {
+  align-self: stretch;
+  color: var(--colorgray-400);
+  font-family: "Urbanist", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.home-rea-pix .frame-30 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #e1ebf2;
+  border-radius: 12px;
+  display: flex;
+  gap: 16px;
+  height: 137px;
+  padding: 16px;
+  position: relative;
+  width: 557px;
+}
+
+.home-rea-pix .frame-31 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  position: relative;
+}
+
+.home-rea-pix .text-wrapper-17 {
+  align-self: stretch;
+  color: var(--colorgray-900);
+  font-family: "Urbanist", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.home-rea-pix .line-2 {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 1px;
+}
+
+.home-rea-pix .frame-32 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .frame-33 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 20px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.home-rea-pix .frame-34 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #e1ebf2;
+  border-radius: 12px;
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  position: relative;
+  width: 327px;
+}
+
+.home-rea-pix .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8px;
+  position: relative;
+}
+
+.home-rea-pix .text-wrapper-18 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Urbanist", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.home-rea-pix .text-wrapper-19 {
+  align-self: stretch;
+  color: var(--colorgray-400);
+  font-family: "Urbanist", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+}
+
+.home-rea-pix .overlap-group {
+  height: 848px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 323px;
+}
+
+.home-rea-pix .text-3 {
+  color: #000000;
+  font-family: "Urbanist", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 93px;
+  white-space: nowrap;
+}
+
+.home-rea-pix .component-9 {
+  height: 848px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home-rea-pix .icons-5 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.home-rea-pix .component-9-instance {
+  align-self: stretch !important;
+  width: 100% !important;
+}
+
+.home-rea-pix .design-component-instance-node {
+  left: 323px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
