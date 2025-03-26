@@ -1,11 +1,13 @@
+
 import "../global.css";
 import "../styleguide.css";
-import { StrictMode } from "react";
+import React from "react";
 import { createRoot } from "react-dom/client";
 import { HomeReaPix } from "./screens/HomeReaPix";
 
-createRoot(document.getElementById("app")).render(
-  <StrictMode>
+const root = createRoot(document.getElementById("app"));
+root.render(
+  <React.StrictMode>
     <HomeReaPix />
-  </StrictMode>,
+  </React.StrictMode>
 );
